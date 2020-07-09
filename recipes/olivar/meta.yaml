@@ -37,5 +37,5 @@ test:
   
 about:
   home: https://gitlab.com/treangenlab/olivar
-  license: TreangenLab
+  license: MIT - TreangenLab
   summary: An open source pipeline for comprehensive design of primer and probe sets for pathogen sequence
